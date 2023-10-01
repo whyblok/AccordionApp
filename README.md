@@ -3,6 +3,8 @@
 This project contains an Accordion App.
 Rules for launching the application correctly are in the file "Documentation.docx"
 
+![alt Скриншот](./public/Accordion.png)
+
 ## Available Scripts
 
 In the project directory, you need to run:
