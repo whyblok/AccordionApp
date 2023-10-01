@@ -1,0 +1,12 @@
+.App {
+  padding: 40px;
+  text-align: center;
+  background-color: rgb(242, 230, 225);
+}
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
